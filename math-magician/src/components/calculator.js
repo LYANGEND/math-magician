@@ -21,7 +21,7 @@ const Calculator = () => {
     <main>
       <Header />
       <section>
-        <h2>Let&apos;s do some math</h2>
+        <h2>Let&apos;s do some math!</h2>
         <div className="row">
           <div className="grid-item item2">
             {total}
