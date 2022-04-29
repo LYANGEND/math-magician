@@ -12,7 +12,7 @@ Math magicians is a website for all fans of mathematics. It is a Single Page App
 
 ## Live
 
-- [Netlify](https://microverse-math-magician.netlify.app/)
+- (https://microverse-math-magician.netlify.app/)
 
 ## Getting Started
 
@@ -59,9 +59,9 @@ Run the following tests:
 
 👤 **Author**
 
-- GitHub: [@ciraganenicole](https://github.com/ciraganenicole)
-- Twitter: [@CiraganeN](https://twitter.com/CiraganeN)
-- LinkedIn: [CiraganeNicole](https://linkedin.com/in/nicole-ciragane-19a3071bb)
+- GitHub: (https://github.com/LYANGEND)
+- Twitter: (https://twitter.com/david_lyangenda)
+- LinkedIn: (https://www.linkedin.com/in/david-lyangenda-623087151/)
 
 ## 🤝 Contributing
 
