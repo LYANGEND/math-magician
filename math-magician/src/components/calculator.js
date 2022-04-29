@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import './style.css';
 import calculate from '../logic/calculate';
-import Header from './Header';
 
 const Calculator = () => {
   const [state, setState] = useState({
@@ -19,9 +18,7 @@ const Calculator = () => {
   const { total, next, operation } = state;
   return (
     <main>
-      <Header />
       <section>
-        <h2>Let&apos;s do some math!</h2>
         <div className="row">
           <div className="grid-item item2">
             {total}
@@ -30,9 +27,9 @@ const Calculator = () => {
 
           </div>
 
-          <button type="button" className="grid-item orange" onClick={clickHandle} name="AC">AC </button>
-          <button type="button" className="grid-item orange" onClick={clickHandle} name="+/-"> +/- </button>
-          <button type="button" className="grid-item orange" onClick={clickHandle} name="%"> % </button>
+          <button type="button" className="grid-item" onClick={clickHandle} name="AC">AC </button>
+          <button type="button" className="grid-item" onClick={clickHandle} name="+/-"> +/- </button>
+          <button type="button" className="grid-item" onClick={clickHandle} name="%"> % </button>
           <button type="button" className="grid-item orange" onClick={clickHandle} name="÷"> ÷ </button>
           <button type="button" className="grid-item" onClick={clickHandle} name="7"> 7 </button>
           <button type="button" className="grid-item" onClick={clickHandle} name="8"> 8 </button>
