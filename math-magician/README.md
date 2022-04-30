@@ -1,67 +1,45 @@
-# Math magicians
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-Math magicians is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
+# Math Magicians Application
 
-- Make simple calculations 
-- Read a random math-related quote
+> "Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
+> - Make simple calculations.
+> - Read a random math-related quote.
+
 
 ## Built With
 
-- REACT
-- CSS
-
-## Live
-
-- (https://microverse-math-magician.netlify.app/)
-
-## Getting Started
+- React
 
 
-To get a local copy up and :
+To get a local copy up and running follow these simple example steps.
 
-- Open your terminal and cd to the folder where you want to put the project and run :
- ```
- git clone git@github.com:ciraganenicole/Math-magician.git
- ```
+Run the following:
+   ```
+   git clone git@github.com:Achilles-Dev/math-magicians-app.git
 
-### Prerequisites
+   cd math-magicians-app
 
-- Create-react-app
-- Git/Github
-- VSCode or another equivalent tool
-- Html, Css and Javascript
-- Webpack
-- APIs
-- Jest
+   npm install
 
-### Install
+   npm start
+   ```
 
-```
-npm install
-```
-```
-npm install --save-dev eslint@7.x eslint-config-airbnb@18.x eslint-plugin-import@2.x eslint-plugin-jsx-a11y@6.x eslint-plugin-react@7.x eslint-plugin-react-hooks@4.x @babel/eslint-parser@7.x @babel/core@7.x  @babel/plugin-syntax-jsx@7.x @babel/preset-env@7.x  @babel/preset-react@7.x
-```
-```
-npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
-```
 
 ### Run tests
 
-Run the following tests:
-
-- npm start 
-- npm run test
-- npx stylelint "**/*.{css,scss}"
-- npx eslint .
+  ```
+  npm run test
+  ```
 
 ## Authors
 
-👤 **Author**
+👤 **Solomon Hagan**
 
-- GitHub: (https://github.com/LYANGEND)
-- Twitter: (https://twitter.com/david_lyangenda)
-- LinkedIn: (https://www.linkedin.com/in/david-lyangenda-623087151/)
+- GitHub: [@Lyangenda](https://github.com/LYANGEND)
+- Twitter: [@lyangenda_david](https://twitter.com/david_lyangenda)
+- LinkedIn: [David Lyangenda]https://www.linkedin.com/in/david-lyangenda-623087151/t)
+
 
 ## 🤝 Contributing
 
@@ -73,6 +51,12 @@ Feel free to check the [issues page](../../issues/).
 
 Give a ⭐️ if you like this project!
 
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
 ## 📝 License
 
-This project is not licensed.
+This project is [MIT](./MIT.md) licensed.
