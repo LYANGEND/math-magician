@@ -17,7 +17,7 @@ To get a local copy up and :
 
 - Open your terminal and cd to the folder where you want to put the project and run :
  ```
- git clone git@github.com:ciraganenicole/Math-magician.git
+git@github.com:LYANGEND/math-magician.git
  ```
 
 ### Prerequisites
